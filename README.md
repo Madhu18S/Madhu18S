@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Madhu18S
 - 👀 I’m interested in growing and expanding my current knowledge base
-- 🌱 I’m currently learning python, java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Game Theory and Blockchains.
+- 💞️ I’m looking to collaborate on Fintech and Math overlapping fields.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to read. 
 
