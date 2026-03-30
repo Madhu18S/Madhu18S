@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @Madhu18S
-- 👀 I’m interested in growing and expanding my current knowledge base
-- 🌱 I’m currently learning Game Theory and Blockchains.
-- 💞️ I’m looking to collaborate on Fintech and Math overlapping fields.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to read. 
+### Hi, I'm @Madhu18S!!
 
-<!---
-Madhu18S/Madhu18S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a B.Tech Computer Science student (Class of 2028) with a passion for **mathematical computing and decentralized finance.**
+
+Currently focused on **bridging the gap between theoretical mathematics and real-world computational systems**, particularly in financial protocols, distributed systems, and algorithmic decision models.
+
+I am interested in how **mathematical structures — probability, optimization, and game theory — can be translated into robust, scalable software systems**.
+
+---
+
+### Technical Interests
+* **Mathematical Computing:** Applying probability, optimization, and numerical methods to computational systems.
+* **Fintech & Cryptoeconomics:** Stability proofs, incentive design, game theory applications, and protocol evolution.
+* **Distributed Systems:** Consensus mechanisms, fault tolerance, and decentralized architectures.
+* **Machine Learning Systems:** Data-driven modeling, reinforcement learning, and algorithmic decision-making.
+---
+
+### About Me
+* **Education:** B.Tech in Computer Science | Minors: AI/ML
+* **Fun Fact:** When I'm not optimizing code, I love to read.
+* **Pronouns:** she/her
+
+---
+
+### Let's Connect
+* Feel free to reach out for collaborations in fintech, mathematical modeling, or open-source infrastructure.
